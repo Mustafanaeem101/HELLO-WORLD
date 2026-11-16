@@ -228,5 +228,4 @@
 #   print ("^           ^")
 #   print("")
 #   print("--------------")
-and if or while:
-  print("hey")
+
